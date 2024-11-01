@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_item_personal_contact.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/item_personal_contact.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_phone.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/phone.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_first_splach.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/first_splach.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_file.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/file.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_emergancy.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_emergancy.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_circle_background.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_second.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/xml_data_extraction_rules.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_articels.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_articels.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_activity_main.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_article.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_article.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_ambulance.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/ambulance.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_frame_login.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/frame_login.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_idea.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/idea.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_password_visibility_off.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/password_visibility_off.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/color_chip_text_color.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/color/chip_text_color.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_add_contact.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_add_contact.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_baseline_account_circle_24.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_call.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/call.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_my_emergency.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_my_emergency.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_reportimage.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/reportimage.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/xml_backup_rules.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_pp.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/pp.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_list_emergancy_item.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/list_emergancy_item.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_ehistory.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/ehistory.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_setting.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/setting.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_settings.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/settings.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_arrow.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/arrow.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_fenderbender.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/fenderbender.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_contacts_pager.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_contacts_pager.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_button_background.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/button_background.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_contact.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/contact.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_splash_two.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/splash_two.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_baseline_emergency_24.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/baseline_emergency_24.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/font_serifregular.ttf.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/font/serifregular.ttf"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_round_button.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/round_button.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_search.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/search.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_list_myemergency_item.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/list_myemergency_item.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_baseline_edit_24.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/baseline_edit_24.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_home.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/home.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_ic_phone_call.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/ic_phone_call.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_user_profile.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_user_profile.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/xml_network_security_config.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_warning.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/warning.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_first_splach.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_first_splach.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_calling.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/calling.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_edit_profile.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_edit_profile.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_buttom_background.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/buttom_background.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_police.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/police.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_list_articles.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/list_articles.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_google.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/google.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_back.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/back.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_book.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/book.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_people.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/people.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/color_chip_background_color.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/color/chip_background_color.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_photo.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/photo.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_contact_profile.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/contact_profile.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/navigation_nav_graph.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_splach_third.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/splach_third.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_explore.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/explore.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_publish_report.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_publish_report.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_main.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_ic_add.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_policecar.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/policecar.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_flames.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/flames.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_sign_up.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_delete.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/delete.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_ic_launcher_background.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_lo.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/lo.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_mm.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/mm.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_loogo.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/loogo.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_instruction.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/instruction.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_manuall.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/manuall.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_edittext_background.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_third.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_third.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_change_password.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_change_password.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_lg.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/lg.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_rounded_corner_background.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/rounded_corner_background.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_phototest.jpg.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/phototest.jpg"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_disaster.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/disaster.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_logout.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/logout.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_lamp.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/lamp.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_apple.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/apple.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_ic_delete.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/menu_bottom_nav_bar.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/menu/bottom_nav_bar.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_more.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/more.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_the_logo.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/the_logo.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_more.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_more.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_sosred.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/sosred.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_log_in.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_log_in.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_manual.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/manual.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_forgot_password.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_forgot_password.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_user_profile_placeholder.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/user_profile_placeholder.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/layout_fragment_contacts.xml.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_contacts.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_logoo.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/logoo.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_camera.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/camera.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/drawable_or.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/drawable/or.png"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-merged_res-61:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

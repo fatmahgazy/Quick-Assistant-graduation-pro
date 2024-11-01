@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/list_articles.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/list_articles.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_contacts.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_contacts.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/activity_main.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_contacts_pager.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_contacts_pager.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_user_profile.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_user_profile.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_main.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/item_personal_contact.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/item_personal_contact.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_forgot_password.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_forgot_password.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_first_splach.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_first_splach.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/list_emergancy_item.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/list_emergancy_item.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_change_password.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_change_password.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_articels.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_articels.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_edit_profile.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_edit_profile.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_article.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_article.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_second.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_log_in.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_log_in.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_publish_report.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_publish_report.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_add_contact.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_add_contact.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_third.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_third.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_my_emergency.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_my_emergency.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_emergancy.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_emergancy.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/list_myemergency_item.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/list_myemergency_item.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_sign_up.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "org.codeforegypt.quickassestant.app-mergeDebugResources-60:/layout/fragment_more.xml",
+        "source": "org.codeforegypt.quickassestant.app-main-63:/layout/fragment_more.xml"
+    }
+]

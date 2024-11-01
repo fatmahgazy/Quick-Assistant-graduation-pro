@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <FrameLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:background="@color/background_color" android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <LinearLayout
+        android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_height="50dp" android:layout_width="match_parent" app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent" app:cardElevation="8dp">
+
+    <ImageView
+        android:layout_height="50dp" android:layout_width="50dp" android:src="@drawable/back" android:visibility="gone" android:padding="12dp" android:id="@+id/ivReturn"/>
+
+    <TextView
+        android:layout_height="wrap_content" android:layout_width="match_parent" android:textStyle="bold" android:textSize="16sp" android:textColor="@color/red" android:text="Emergancies" android:layout_marginHorizontal="50dp" android:gravity="center" android:layout_gravity="center"/>
+
+</androidx.cardview.widget.CardView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_height="0dp" android:layout_width="match_parent" android:padding="8dp" android:id="@+id/rvEmergency" app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" android:layout_weight="1"/>
+
+</LinearLayout>
+
+
+    <FrameLayout
+        android:background="@color/white" android:layout_height="match_parent" android:layout_width="match_parent" android:visibility="gone" android:id="@+id/flLoading">
+
+    <ProgressBar
+        android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_gravity="center" android:indeterminateTint="@color/red" android:progressTint="@color/red"/>
+
+</FrameLayout>
+
+
+    <LinearLayout
+    android:background="@color/white" android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent" android:visibility="gone" android:id="@+id/llError" android:gravity="center">
+
+    <ImageView
+        android:layout_height="60dp" android:layout_width="60dp" android:src="@drawable/baseline_emergency_24"/>
+
+    <TextView
+        android:layout_height="wrap_content" android:layout_width="match_parent" android:textStyle="bold" android:textSize="20sp" android:textColor="@color/red" android:text="Something went wrong! \nPlease check your internet connection!" android:layout_gravity="center" android:layout_margin="20dp" android:textAlignment="center"/>
+
+</LinearLayout>
+
+</FrameLayout>
